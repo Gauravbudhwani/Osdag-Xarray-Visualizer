@@ -201,5 +201,5 @@ if __name__ == "__main__":
         # Plot Bending Moment in 3D
         plot_3d_bridge(data, girders_dict, plot_type='Mz')
         
-        #Shear Force in 3D 
-        plot_3d_bridge(data, girders_dict, plot_type='Vy')
+        # uncomment the below code for Shear Force in 3D 
+        # plot_3d_bridge(data, girders_dict, plot_type='Vy')
