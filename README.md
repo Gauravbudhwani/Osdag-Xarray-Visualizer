@@ -91,7 +91,7 @@ The 3D view displays the Bending Moment (Mz) for the entire bridge structure, wi
 ##  Video Demonstration
 A short video demonstrating the code execution and interactive plots can be found here:
 
-(https://youtu.be/L6FE4eBpJ0c?si=58xWBrAPz8fV8C6K)
+(https://youtu.be/9xHvecXc3I4)
 
 ---
 
