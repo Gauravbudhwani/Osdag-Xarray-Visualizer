@@ -2,7 +2,7 @@
 
 This repository contains the Python-based visualization tool developed for the **Osdag 2026 Screening Task**. The project analyzes structural forces from an Xarray dataset and generates both 2D engineering diagrams and a 3D full-bridge visualization similar to professional structural analysis software (e.g., MIDAS).
 
-## 🚀 Features
+##  Features
 
 ### Task 1: 2D Analysis (Central Girder)
 - **Data Extraction**: Programmatically extracts Bending Moment (`Mz`) and Shear Force (`Vy`) values for the central longitudinal girder (Elements 15–83).
@@ -16,7 +16,7 @@ This repository contains the Python-based visualization tool developed for the *
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3.x**
 - **Xarray** (Data handling for NetCDF `.nc` files)
 - **Plotly** (Interactive 2D and 3D plotting)
@@ -78,7 +78,7 @@ This will open two browser tabs: one for the 2D diagrams and one for the 3D brid
 
 ---
 
-## 📊 Results
+##  Results
 
 ### 1. 2D Shear & Bending Diagrams
 The code successfully isolates the central girder and plots the sawtooth shear pattern and continuous bending moments.
@@ -88,10 +88,10 @@ The 3D view displays the Bending Moment (Mz) for the entire bridge structure, wi
 
 ---
 
-## 🎥 Video Demonstration
+##  Video Demonstration
 A short video demonstrating the code execution and interactive plots can be found here:
 
-[(https://youtu.be/L6FE4eBpJ0c?si=58xWBrAPz8fV8C6K)]
+(https://youtu.be/L6FE4eBpJ0c?si=58xWBrAPz8fV8C6K)
 
 ---
 
